@@ -1,4 +1,5 @@
 .idea/
+credentials.txt
 
 ### Ansible template
 *.retry
